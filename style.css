@@ -1,4 +1,4 @@
-body{
+#body1{
     text-align: center;
 }
 .profile{
@@ -54,4 +54,24 @@ body{
 }
 #videos iframe{
     width: 80%;
+}
+.Filmeshead{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Filmeshead i{
+    float: right;
+}
+.Filmeshead span
+{float: left;}
+.filmesText span{
+    color:orange
+}
+.Livros{
+    margin-bottom: 10px;
+}
+#contact iframe{
+    width: 100%;
 }
